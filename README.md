@@ -6,7 +6,7 @@
 
 :computer: I've worked as a web developer using the stack : Angular/ C # / sql Server / SVN
 
-:books: Currently studying React / React Native / Node.JS / Git through RocketSeat :rocket::seat:
+:books: Currently studying React / React Native / Node.js
 
 You can also find me on LinkedIn:
 - [LinkedIn](www.linkedin.com/in/guilhermebaviera/)
