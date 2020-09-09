@@ -21,3 +21,5 @@
 
 You can also find me on LinkedIn:
 - [LinkedIn](www.linkedin.com/in/guilhermebaviera/)
+
+#Reactjs #Reactnative #NodeJs #c# #webDeveloper #keepcoding 
