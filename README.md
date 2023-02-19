@@ -8,6 +8,6 @@
 💼 Developer .NetCore / Sql / React
 
 
-- [LinkedIn](www.linkedin.com/in/guilhermebaviera/)
+- [LinkedIn](https://www.linkedin.com/in/guilhermebaviera/)
 
 #.NetCore #SQL #React #Developer 
